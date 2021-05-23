@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="130">
 
 **My ultimate purpose is being Self-Taught Penetration Tester and Web Developer.**
 
