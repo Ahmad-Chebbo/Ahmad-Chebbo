@@ -10,9 +10,14 @@
 
 **My ultimate purpose is being Self-Taught Penetration Tester and Web Developer.**
 
-- 💻 **Full Stack Developer** with a passion to learn and develop my skills in various fields
-- 🎓 **Co-Founder** Of LIU  Computer Science Club 
-- ✈ Explorer in various fields, such as **Web Development, Penetration Testing, Game Development, etc.**
+- 💻&nbsp;&nbsp; **Full Stack Developer** with a passion to learn and develop my skills in various fields
+- 🎓&nbsp;&nbsp; **Co-Founder** Of LIU  Computer Science Club 
+- ✈&nbsp;&nbsp; Explorer in various fields, such as **Web Development, Penetration Testing, Game Development, etc.**
+- ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.blade.php`
+- 🌍&nbsp;&nbsp; I'm mostly active within the **Medium and Laracast Community**
+- 📘&nbsp;&nbsp; I wrote the **[Web Development Roadmap](https://ahmadchebbo.medium.com/web-development-roadmap-f55fb2e08f2d)** medium article
+- 🌱&nbsp;&nbsp; Learning all about **Open Source**
+- 💬&nbsp;&nbsp; Ping me about **pentesting**, **vue js**, **laravel**, **development**, **devops**
 
 <br>
 
