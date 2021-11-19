@@ -15,7 +15,7 @@
 - ✈&nbsp;&nbsp; Explorer in various fields, such as **Web Development, Penetration Testing, Game Development, etc.**
 - ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.vue`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **Medium and Laracast Community**
-- 📘&nbsp;&nbsp; I wrote the **[Web Development Roadmap](https://ahmadchebbo.medium.com/web-development-roadmap-f55fb2e08f2d)** medium article
+- 📘&nbsp;&nbsp; Check out the **[Web Development Roadmap](https://ahmadchebbo.medium.com/web-development-roadmap-f55fb2e08f2d)** medium article
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **pentesting**, **vue js**, **laravel**, **development**, **devops**
 
