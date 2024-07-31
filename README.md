@@ -12,7 +12,9 @@
 
 - 💻&nbsp;&nbsp; **Full Stack Developer** with a passion to learn and develop my skills in various fields
 - 🎓&nbsp;&nbsp; **Co-Founder** Of LIU  Computer Science Club 
-- 💼&nbsp;&nbsp; **Web Developer** at Borninteractive Lebanon
+- 💼&nbsp;&nbsp; **Web Developer** at Pixel38 Lebanon
+- 💼&nbsp;&nbsp; **Technical Team Manager** at Amis CLAC youth organization
+- 💼&nbsp;&nbsp; **Co-founder** of Dotzone Group
 - ✈&nbsp;&nbsp; Explorer in various fields, such as **Web Development, Penetration Testing, Game Development, etc.**
 - ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.vue`, `.cs`, `.cshtml`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **Medium and Laracast Community**
